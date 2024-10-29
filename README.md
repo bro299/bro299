@@ -17,6 +17,11 @@ Saya adalah seorang pengembang website yang bersemangat dengan fokus pada pengem
 - [Cerdasbudi](https://cerdasbudi-20.vercel.app/) - AI Psikolog Yang Terintegritas Oleh AI Gemini.
 ## 📈 Statistik GitHub
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=bro299&show_icons=true&theme=radical)
+<p align='center'>
+  <a href="#"><img
+   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bro299&layout=compact&theme=chartreuse-dark"
+   width="400" title="Most Used Languages"></a></p>
+ </p>
 
 ## 🌐 Temukan Saya di
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](link-ke-profil-linkedin)
